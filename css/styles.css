@@ -1,0 +1,24 @@
+body {
+  background-color: #d4f3ef;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  background-color: lightgrey;
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+
+.hobbies-img{
+  width: 50%;
+  height: 50%;
+  padding: 3%;
+}
